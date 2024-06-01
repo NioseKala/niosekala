@@ -1,0 +1,35 @@
+
+bphp:S100p"NRename function "Connect" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ìï¥ˆ
+iphp:S100¨"ORename function "StartTLS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(á£ë¶øÿÿÿÿ
+mphp:S100Ò"SRename function "Authenticate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¥€˜øÿÿÿÿ
+ephp:S100Ž"PRename function "Connected" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸­‰
+`php:S100¥"LRename function "Close" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ñö­U
+`php:S100Æ"KRename function "Data" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“‘„Ë
+fphp:S100Ï"LRename function "Hello" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïüÛ“ùÿÿÿÿ
+jphp:S100í"PRename function "SendHello" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(µáõïÿÿÿÿÿ
+`php:S100•"KRename function "Mail" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ºÆìÔ
+ephp:S100À"KRename function "Quit" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(âóÿÀüÿÿÿÿ
+ephp:S100õ"PRename function "Recipient" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†Øîé
+aphp:S100 "LRename function "Reset" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(þ›¼’
+gphp:S100Ð"RRename function "SendAndMail" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°¼›á
+`php:S100ü"KRename function "Turn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ð‘ÊÖ
+ephp:S100›"PRename function "get_lines" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¯¦àú
+8	php:S1780®"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+W	php:S1142¨"<This method has 4 returns, which is more than the 3 allowed.(á£ë¶øÿÿÿÿ
+W	php:S1142Ò"<This method has 4 returns, which is more than the 3 allowed.(¥€˜øÿÿÿÿ
+R	php:S1142Æ"<This method has 4 returns, which is more than the 3 allowed.(“‘„Ë
+lphp:S1166"SRename this field "$SMTP_PORT" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜¤Ùéþÿÿÿÿ
+gphp:S116<"NRename this field "$CRLF" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡×¸ýÿÿÿÿ
+fphp:S116B"RRename this field "$do_debug" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†û–Ç
+ephp:S116H"QRename this field "$do_verp" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆÛ®à
+gphp:S116N"SRename this field "$smtp_conn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®éÕž
+lphp:S116P"SRename this field "$helo_rply" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ú¶øŽúÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+j	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(“‘„Ë
+g	php:S1192‹"QDefine a constant instead of duplicating this literal "SMTP -> ERROR: " 13 times.(ÄÁð—
+^	php:S1192‹"HDefine a constant instead of duplicating this literal "<br />" 27 times.(ÄÁð—
+p	php:S1192™"UDefine a constant instead of duplicating this literal "SMTP -> FROM SERVER:" 9 times.(õÈ¶¦þÿÿÿÿ
+J	php:S1066¤"/Merge this if statement with the enclosing one.(–øˆ™øÿÿÿÿ
+E	php:S1066à"/Merge this if statement with the enclosing one.(ºèýˆ
+G	php:S4423Å",Change this code to use a stronger protocol.(Ã–Ð“üÿÿÿÿ
+Ephp:S121’"0Add curly braces around the nested statement(s).(“Ðå½
