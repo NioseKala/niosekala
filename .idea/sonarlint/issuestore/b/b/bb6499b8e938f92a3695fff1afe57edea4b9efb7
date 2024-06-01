@@ -1,0 +1,59 @@
+
+Z	Web:S5254
+"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+NWeb:AvoidCommentedOutCodeCheckC"Remove this commented out code.(Ãß¢øÿÿÿÿ
+NWeb:AvoidCommentedOutCodeCheckK"Remove this commented out code.(îø˜ùÿÿÿÿ
+D	Web:S1827")Remove this deprecated "align" attribute.(ĞíÖ­ÿÿÿÿÿ
+?	Web:S1827")Remove this deprecated "align" attribute.(ÓÅğÇ
+?	Web:S1827¬")Remove this deprecated "align" attribute.(®´‡ÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 129 characters long line (which is greater than 120 authorized).(ÄÃÌë
+dphp:S103("KSplit this 136 characters long line (which is greater than 120 authorized).(ÛÂß»üÿÿÿÿ
+_php:S103+"KSplit this 144 characters long line (which is greater than 120 authorized).(±ßø‘
+_php:S1033"KSplit this 500 characters long line (which is greater than 120 authorized).(§´Ù
+dphp:S1037"KSplit this 257 characters long line (which is greater than 120 authorized).(Ï’ğ‡üÿÿÿÿ
+dphp:S103Q"KSplit this 186 characters long line (which is greater than 120 authorized).(‚íªùÿÿÿÿ
+`php:S103"KSplit this 123 characters long line (which is greater than 120 authorized).(ÓÅğÇ
+`php:S103¼"KSplit this 142 characters long line (which is greater than 120 authorized).(¡«ı
+n	php:S1192Ø"SDefine a constant instead of duplicating this literal "<div> Results <hr>" 3 times.(¿§¡ôşÿÿÿÿ
+€	php:S1192Ñ"jDefine a constant instead of duplicating this literal "X-TOKEN: CAIFDIEBAUCRICLEJUDER7TEY64NBMBO" 3 times.(·’Áï
+]	php:S1192Ö"GDefine a constant instead of duplicating this literal "Error:" 3 times.(ÌÈ¹Ü
+\	php:S1192Ú"GDefine a constant instead of duplicating this literal "</div>" 3 times.(ÊÄ—
+;	php:S2003Z"&Replace "require" with "require_once".(®—¢
+;	php:S2003]"&Replace "require" with "require_once".(­ÙÑô
+;	php:S2003`"&Replace "require" with "require_once".(ı¶Ä¢
+;	php:S2003b"&Replace "require" with "require_once".(ö¥¦÷
+@	php:S2003d"&Replace "require" with "require_once".(Œ¸¨´ıÿÿÿÿ
+;	php:S2003f"&Replace "require" with "require_once".(¸‹ıô
+;	php:S2003h"&Replace "require" with "require_once".(†¯Ù§
+;	php:S2003j"&Replace "require" with "require_once".(¦™ô
+@	php:S2003l"&Replace "require" with "require_once".(àÒ¢Ğıÿÿÿÿ
+:	php:S2003n"&Replace "require" with "require_once".(´ô¶z
+;	php:S2003p"&Replace "require" with "require_once".(Ï‰Äß
+@	php:S2003r"&Replace "require" with "require_once".(¸¼ïÖşÿÿÿÿ
+@	php:S2003t"&Replace "require" with "require_once".(íÀ•Éÿÿÿÿÿ
+;	php:S2003v"&Replace "require" with "require_once".(º¥Ûù
+@	php:S2003x"&Replace "require" with "require_once".(Ô˜¾¼ÿÿÿÿÿ
+;	php:S2003z"&Replace "require" with "require_once".(¦šŸğ
+A	php:S2003­"&Replace "require" with "require_once".(ÄÃãäùÿÿÿÿ
+9php:S125û"Remove this commented out code.(¨º›Ïşÿÿÿÿ
+k	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ıÎİıÿÿÿÿ
+k	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(—à§Éøÿÿÿÿ
+a	php:S4833Z"LReplace "require" with namespace import mechanism through the "use" keyword.(®—¢
+a	php:S4833]"LReplace "require" with namespace import mechanism through the "use" keyword.(­ÙÑô
+a	php:S4833`"LReplace "require" with namespace import mechanism through the "use" keyword.(ı¶Ä¢
+a	php:S4833b"LReplace "require" with namespace import mechanism through the "use" keyword.(ö¥¦÷
+f	php:S4833d"LReplace "require" with namespace import mechanism through the "use" keyword.(Œ¸¨´ıÿÿÿÿ
+a	php:S4833f"LReplace "require" with namespace import mechanism through the "use" keyword.(¸‹ıô
+a	php:S4833h"LReplace "require" with namespace import mechanism through the "use" keyword.(†¯Ù§
+a	php:S4833j"LReplace "require" with namespace import mechanism through the "use" keyword.(¦™ô
+f	php:S4833l"LReplace "require" with namespace import mechanism through the "use" keyword.(àÒ¢Ğıÿÿÿÿ
+`	php:S4833n"LReplace "require" with namespace import mechanism through the "use" keyword.(´ô¶z
+a	php:S4833p"LReplace "require" with namespace import mechanism through the "use" keyword.(Ï‰Äß
+f	php:S4833r"LReplace "require" with namespace import mechanism through the "use" keyword.(¸¼ïÖşÿÿÿÿ
+f	php:S4833t"LReplace "require" with namespace import mechanism through the "use" keyword.(íÀ•Éÿÿÿÿÿ
+a	php:S4833v"LReplace "require" with namespace import mechanism through the "use" keyword.(º¥Ûù
+f	php:S4833x"LReplace "require" with namespace import mechanism through the "use" keyword.(Ô˜¾¼ÿÿÿÿÿ
+a	php:S4833z"LReplace "require" with namespace import mechanism through the "use" keyword.(¦šŸğ
+g	php:S4833­"LReplace "require" with namespace import mechanism through the "use" keyword.(ÄÃãäùÿÿÿÿ
+Pphp:S131Y"7Add a "case default" clause to this "switch" statement.(ì€ãŠøÿÿÿÿ

@@ -1,0 +1,32 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103I"KSplit this 121 characters long line (which is greater than 120 authorized).(ËšÖî
+dphp:S103N"KSplit this 197 characters long line (which is greater than 120 authorized).(çÀ³¦úÿÿÿÿ
+_php:S103R"KSplit this 198 characters long line (which is greater than 120 authorized).(ôßÏÔ
+_php:S103`"KSplit this 200 characters long line (which is greater than 120 authorized).(É³ñŸ
+_php:S103g"KSplit this 156 characters long line (which is greater than 120 authorized).(°®Îä
+_php:S103h"KSplit this 155 characters long line (which is greater than 120 authorized).(‹¥Æ•
+dphp:S103z"KSplit this 189 characters long line (which is greater than 120 authorized).(·ÐÕ¯üÿÿÿÿ
+_php:S103}"KSplit this 126 characters long line (which is greater than 120 authorized).(„–Á…
+`php:S103‹"KSplit this 124 characters long line (which is greater than 120 authorized).(Ú¾è¸
+ephp:S103–"KSplit this 385 characters long line (which is greater than 120 authorized).(µž‰îùÿÿÿÿ
+`php:S103ß"KSplit this 187 characters long line (which is greater than 120 authorized).(ã¶¤¨
+`php:S103ï"KSplit this 155 characters long line (which is greater than 120 authorized).(î§«£
+`php:S103ð"KSplit this 166 characters long line (which is greater than 120 authorized).(Ø¦¶ü
+`php:S103ô"KSplit this 131 characters long line (which is greater than 120 authorized).(–ÒË»
+ephp:S103ø"KSplit this 221 characters long line (which is greater than 120 authorized).(ªÙ§°ûÿÿÿÿ
+nphp:S100†"TRename function "PaymentFailed" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ß½€òÿÿÿÿÿ
+8	php:S1780ü"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+?	php:S1481%"*Remove this unused "$host" local variable.(š‹éã
+E	php:S1481'"0Remove this unused "$sourceCode" local variable.(¾ÖèÑ
+F	php:S1481(",Remove this unused "$refURL" local variable.(ùÕ©‘ûÿÿÿÿ
+E	php:S1481ò"*Remove this unused "$mail" local variable.(—Ç‡¸øÿÿÿÿ
+P	php:S6600£"5Remove the parentheses from this "require_once" call.(’‹ÕÖÿÿÿÿÿ
+P	php:S6600Â"5Remove the parentheses from this "require_once" call.(’‹ÕÖÿÿÿÿÿ
+D	php:S6600ô".Remove the parentheses from this "print" call.(–ÒË»
+4php:S125õ"Remove this commented out code.(‡âÔê
+4php:S125ù"Remove this commented out code.(‡âÔê
+Iphp:S121]"0Add curly braces around the nested statement(s).(ÚÝŒüýÿÿÿÿ
+k	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(“…¢ìüÿÿÿÿ
+l	php:S4833£"QReplace "require_once" with namespace import mechanism through the "use" keyword.(’‹ÕÖÿÿÿÿÿ
+l	php:S4833Â"QReplace "require_once" with namespace import mechanism through the "use" keyword.(’‹ÕÖÿÿÿÿÿ

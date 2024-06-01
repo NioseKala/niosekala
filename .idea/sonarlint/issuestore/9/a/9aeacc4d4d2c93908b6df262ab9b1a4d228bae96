@@ -1,0 +1,17 @@
+
+NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(å¢Í…üÿÿÿÿ
+LWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ïýÅžùÿÿÿÿ
+FWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(Þï¾Q
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(Œß×ô
+LWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(þ¤é§ýÿÿÿÿ
+FWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(×³¤
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(·Ýìæ
+FWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(­÷° 
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 218 characters long line (which is greater than 120 authorized).(ïýÅžùÿÿÿÿ
+^php:S103"KSplit this 226 characters long line (which is greater than 120 authorized).(Þï¾Q
+_php:S103"KSplit this 232 characters long line (which is greater than 120 authorized).(Œß×ô
+dphp:S103"KSplit this 240 characters long line (which is greater than 120 authorized).(þ¤é§ýÿÿÿÿ
+^php:S103"KSplit this 247 characters long line (which is greater than 120 authorized).(×³¤
+_php:S103"KSplit this 247 characters long line (which is greater than 120 authorized).(·Ýìæ
+^php:S103"KSplit this 264 characters long line (which is greater than 120 authorized).(­÷° 

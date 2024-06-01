@@ -1,0 +1,18 @@
+
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+C	Web:S1827")Remove this deprecated "align" attribute.(ÃóĞÔøÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(“Ä÷¥ıÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103
+"KSplit this 157 characters long line (which is greater than 120 authorized).(ÈÁúÒÿÿÿÿÿ
+dphp:S103"KSplit this 181 characters long line (which is greater than 120 authorized).(Ëàåüúÿÿÿÿ
+dphp:S103"KSplit this 208 characters long line (which is greater than 120 authorized).(“Ä÷¥ıÿÿÿÿ
+dphp:S103"KSplit this 162 characters long line (which is greater than 120 authorized).(Ü¥úœıÿÿÿÿ
+_php:S103"KSplit this 387 characters long line (which is greater than 120 authorized).(…ÀˆŸ
+dphp:S103"KSplit this 138 characters long line (which is greater than 120 authorized).(‹ÊÂøÿÿÿÿ
+_php:S103$"KSplit this 542 characters long line (which is greater than 120 authorized).(¸îŞ‡
+^php:S103/"KSplit this 514 characters long line (which is greater than 120 authorized).(ãÌÂ+
+@	php:S2003+"&Replace "require" with "require_once".(ÚÍ«ıÿÿÿÿ
+@	php:S2003-"&Replace "require" with "require_once".(‘´ììùÿÿÿÿ
+f	php:S4833+"LReplace "require" with namespace import mechanism through the "use" keyword.(ÚÍ«ıÿÿÿÿ
+f	php:S4833-"LReplace "require" with namespace import mechanism through the "use" keyword.(‘´ììùÿÿÿÿ

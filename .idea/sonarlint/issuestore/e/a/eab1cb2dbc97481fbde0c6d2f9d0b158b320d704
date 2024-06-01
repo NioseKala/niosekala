@@ -1,0 +1,9 @@
+
+IWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ô¹æâ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 123 characters long line (which is greater than 120 authorized).(ÖÓöøÿÿÿÿ
+dphp:S103"KSplit this 167 characters long line (which is greater than 120 authorized).(“–ºøÿÿÿÿ
+dphp:S103"KSplit this 125 characters long line (which is greater than 120 authorized).(êµ ²ùÿÿÿÿ
+_php:S103"KSplit this 126 characters long line (which is greater than 120 authorized).(îíî‘
+_php:S103"KSplit this 147 characters long line (which is greater than 120 authorized).(éŒí§
+dphp:S103'"KSplit this 133 characters long line (which is greater than 120 authorized).(ıâµìøÿÿÿÿ
