@@ -248,14 +248,14 @@ select, textarea {
 
 /* video - responsive */
 
-	.video-responsive{
+	.video-responsive {
 	    overflow:hidden;
 	    padding-bottom:56.25%;
 	    position:relative;
 	    height:0;
 	}
 
-	.video-responsive iframe{
+	.video-responsive iframe {
 	    left:0;
 	    top:0;
 	    height:70%;
@@ -263,12 +263,66 @@ select, textarea {
 	    position:absolute;
 	}
 
-	    left:0;
+	.youtube-video-container {
+		width:100%;
+		max-width:550px;
+		box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%);
+		margin:2rem;
+		text-align: start !important;
+    padding: 0 !important;
+		border: solid;
+    border-color: red;
+    border-radius: 0.3rem;
+    border-width: thick;
+	}
+
+	.youtube-title {
+		text-align: center;
+    border-top: solid red;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+	}
+
+	.youtube-video {
+		position: relative;
+		padding-bottom: 56.15%;
+		height: 0;
+		overflow: hidden;
+	}
+
+	.youtube-video a {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		border: 0;
+	}
+
+	.youtube-video img, svg {
+		position: absolute;
+		width: 100%;
+		top: 0;
+		bottom: 0;
+		margin: auto;
+	}
+
+	.youtube-video svg {
+		filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
+		transition: all 250ms ease-in-out;
+	}
+
+	.youtube-video:hover svg {
+		filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
+		transform: scale(1.2);
+	}
+
+	    /* left:0;
 	    top:0;
 	    height:100%;
 	    width:100%;
 	    position:absolute;
-	}
+	} */
 
 /* Row */
 
@@ -2605,6 +2659,12 @@ select, textarea {
 				transform: translateX(+30%);
 				padding: 0;
 			}
+			a.mobile-link {
+				display: none !important;
+			}
+			a.desktop-link {
+				display: block !important;
+			}
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2621,6 +2681,12 @@ select, textarea {
 				transform: translateX(0%) !important;
 				padding: !important;
 			}
+			a.desktop-link {
+				display: none !important;
+			}
+			a.mobile-link {
+				display: block !important;
+			}
 		}
 
 		@media screen and (max-width: 980px) {
@@ -2628,6 +2694,12 @@ select, textarea {
 				width: 100% !important;
 				transform: translateX(0%) !important;
 				padding: !important;
+			}
+			a.desktop-link {
+				display: block !important;
+			}
+			a.mobile-link {
+				display: none !important;
 			}
 		}
 
@@ -3256,6 +3328,13 @@ select, textarea {
 					line-height: 48px;
 					padding: 0 1em 0 1em;
 					text-decoration: none;
+				}
+
+				#navPanel .mobile-link {
+					display: none !important;
+				}
+				#navPanel .desktop-link {
+					display: block !important;
 				}
 
 					#navPanel .link:first-child {
