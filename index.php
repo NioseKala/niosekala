@@ -56,6 +56,7 @@
 								<li><a href="?p=start">Αρχική</a></li>
 								<li><a href="?p=Services">Υπηρεσίες</a></li>
 								<li><a href="?p=Articles">Άρθρα</a></li>
+								<li><a class="desktop-link" href="?p=Video">Βίντεο</a></li>
 								<li><a href="?p=whyOnline">Γιατί Online?</a></li>
 								<li><a href="?p=Biography">Βιογραφικό</a></li>
 								<li><a href="?p=Contact">Επικοινωνία</a></li>
@@ -67,6 +68,7 @@
 										<!--<li><a href="?p=Videos">Βίντεο - Συνέντευξεις</a></li>-->
 										<li><a href="?p=howTo">Οδηγός Πληρωμής</a></li>
 										<li><a href="?p=Oroi">Όροι Χρήσης</a></li>
+										<li><a class="mobile-link" href="?p=Video">Βίντεο</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -120,6 +122,8 @@
 							case "Articles":			require "articles/articles.php";
 														break;
 							case "Article":				require "articles/article.php";
+														break;
+							case 'Video':					require "youtube/video.php";
 														break;
 						}
 					?>
