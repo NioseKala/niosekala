@@ -1,4 +1,6 @@
-<?
+<?php
+include_once "../logger/Logger.php";
+
 class YoutubeVideos
 {
   private $videos;
@@ -32,6 +34,18 @@ class YoutubeVideos
         return $video;
       }
     }
+  }
+
+  public function insert($title, $url, $videoKey) {
+    $newVideo = new YoutubeVideo($title, $url, $videoKey);
+    $success = $newVideo->insert();
+    if ($success) {
+      Logger::info("Inserted a YoutubeVideo record with title: '".$title."', url: '".$url."', and videoKey: '".$videoKey."'");
+      $videos[] = $newVideo;
+    } else {
+      Logger::warn("Wasn't able to insert the YoutubeVideo record with title: '".$title."', url: '".$url."', and videoKey: '".$videoKey."'");
+    }
+    return $success;
   }
 }
 

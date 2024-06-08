@@ -1,4 +1,4 @@
-<?
+<?php
 class YoutubeVideo {
 
   public function YoutubeVideo($title, $url, $videoKey) {
@@ -20,7 +20,7 @@ class YoutubeVideo {
   public function setVideoKey($videoKey) { $this->videoKey = $videoKey; }
   public function getVideoKey() { return $this->videoKey; }
 
-  public function insert() {
+  protected function insert() {
     $mysqli = $_SESSION['dbconnect'];
     $insertVideoSql = "INSERT INTO `YoutubeVideo`(`title`, `url`, `videoKey`) VALUES (?,?,?)";
     $stmt = $mysqli->prepare($insertVideoSql);
