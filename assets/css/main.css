@@ -274,6 +274,7 @@ select, textarea {
     border-color: red;
     border-radius: 0.3rem;
     border-width: thick;
+		width: 27rem;
 	}
 
 	.youtube-title {
@@ -2679,7 +2680,7 @@ select, textarea {
 			#nav > ul{
 				width: 100% !important;
 				transform: translateX(0%) !important;
-				padding: !important;
+				font-size: 0.8rem !important;
 			}
 			a.desktop-link {
 				display: none !important;
